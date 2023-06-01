@@ -3,4 +3,4 @@ z
 
 *.env
 
-/artifacts
+/artifacts/
